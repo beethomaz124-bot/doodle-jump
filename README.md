@@ -110,5 +110,3 @@ Este projeto foi desenvolvido para praticar Java, principalmente POO, interfaces
 Foi uma experiência divertida transformar a ideia de um jogo clássico em uma versão própria, explorando os recursos da linguagem.
 
 ---
-
-<p align="center">Feito com ☕ e Java</p>
