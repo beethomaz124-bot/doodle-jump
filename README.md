@@ -38,4 +38,29 @@ Antes de começar, é necessário ter o JDK 8 ou superior instalado.
 
 Pelo terminal
 Abra o terminal na pasta do projeto.
-Compile os
+Compile os arquivos Java:
+bash
+javac -encoding UTF-8 *.java
+
+Execute o jogo:
+bash
+java Main
+
+Usando os scripts
+
+Também é possível iniciar o jogo pelos arquivos disponíveis:
+
+Windows: execute rodar.bat.
+Linux/macOS: execute ./rodar.sh (pode ser necessário dar permissão de execução antes).
+Usando uma IDE
+
+Se preferir, você pode abrir o projeto em uma IDE como IntelliJ IDEA, Eclipse, NetBeans ou VS Code e executar a classe Main.java.
+
+⌨️ Controles
+← Seta para esquerda: movimenta o personagem para a esquerda.
+→ Seta para direita: movimenta o personagem para a direita.
+💡 Sobre o projeto
+
+Este projeto foi desenvolvido como uma forma de praticar Java, principalmente conceitos de POO, criação de interfaces gráficas com Swing, movimentação de personagens, colisões e lógica de jogos.
+
+Foi uma experiência interessante transformar a ideia de um jogo clássico em uma versão própria, explorando os recursos da linguagem Java.
